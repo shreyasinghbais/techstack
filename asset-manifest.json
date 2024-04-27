@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/techstack/static/css/main.979d1a3d.css",
+    "main.js": "/techstack/static/js/main.f19c5f25.js",
+    "static/media/notfound.gif": "/techstack/static/media/notfound.892e3c962daac6591a52.gif",
+    "static/media/ai.jpg": "/techstack/static/media/ai.593f7129ab019670b658.jpg",
+    "static/media/wd.webp": "/techstack/static/media/wd.cdc26eac6b27d2292a9f.webp",
+    "static/media/vr.jpg": "/techstack/static/media/vr.3aa33e2757b62d543c84.jpg",
+    "static/media/da.png": "/techstack/static/media/da.6ebaf9c0f5d9e51d812e.png",
+    "static/media/smm.jpg": "/techstack/static/media/smm.e29c273b001caed2aaa9.jpg",
+    "static/media/blockchain.jpeg": "/techstack/static/media/blockchain.1273c16318058c17ec83.jpeg",
+    "index.html": "/techstack/index.html",
+    "main.979d1a3d.css.map": "/techstack/static/css/main.979d1a3d.css.map",
+    "main.f19c5f25.js.map": "/techstack/static/js/main.f19c5f25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.979d1a3d.css",
+    "static/js/main.f19c5f25.js"
+  ]
+}
